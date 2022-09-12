@@ -1,0 +1,27 @@
+body{
+    background-color: #3B7FD2;
+    font: normal 15pt Arial;
+}
+Header{
+    text-align: center;
+    color: white;
+}
+
+section{
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #00000048;
+    background-color: white;
+    margin: auto;
+    padding: 15px;
+}
+
+#resultado{
+    /*text-align: center;*/
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
